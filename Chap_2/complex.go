@@ -1,6 +1,9 @@
 package main
 
-import fmt
+import (
+  fmt
+  "math/cmplx"
+)
 
 func main(){
   x := complex(2.5, 3.1)
